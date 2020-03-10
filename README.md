@@ -13,10 +13,10 @@
 - Classificar motel
 
 ## O que o Dono do Motel pode fazer ?
-- adicionar quartos
-- remover quartos
-- editar quartos
-- cada quarto contém : foto , preço , tematica , nome do quarto
+- Adicionar quartos
+- Remover quartos
+- Editar quartos
+- Cada quarto contém : foto , preço , tematica , nome do quarto
 - Bonus opcional 
 - No motel vende ou não preservativos 
 
