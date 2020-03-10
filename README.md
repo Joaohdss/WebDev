@@ -11,7 +11,7 @@
 ## Usuário
 - classificação
 
-## Usuário pode fazer :
+## O que o Úsuario pode fazer ?
 - Listar Motéis
 - Listar Moteis por classificação
 - Motel favorito 
@@ -19,4 +19,12 @@
 - Remover Motel Favorito
 - Comentar sobre o motel
 - Classificar motel
+
+## O que o Dono do Motel pode fazer ?
+- adicionar quartos
+- remover quartos
+- editar quartos
+- cada quarto contém : foto , preço , tematica , nome do quarto
+- Bonus opcional 
+- No motel vende ou não preservativos 
 
