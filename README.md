@@ -20,3 +20,6 @@
 - Bonus opcional 
 - No motel vende ou não preservativos 
 
+## Exemplo 
+![Alt Text](https://businessblog.trivago.com/wp-content/uploads/2020/01/Register-property-on-trivago.png)
+
