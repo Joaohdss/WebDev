@@ -1,6 +1,6 @@
 # Projeto : Motel Fácil “Trivago do amor”
 
-## Motivação : Não de facil acesso preços dos moteis da localidade 
+## Motivação : Não ter de facil acesso preços dos moteis da localidade 
 
 
 ## O que o Úsuario pode fazer ?
