@@ -1,15 +1,7 @@
 # Projeto : Motel Fácil “Trivago do amor”
 
-## Motivação : Não ter a facilidade para saber os preços dos quartos dos Motéis.
+## Motivação : Não de facil acesso preços dos moteis da localidade 
 
-## Dono do Motel
-- classificação
-- preços
-- localização
-- promoções
-
-## Usuário
-- classificação
 
 ## O que o Úsuario pode fazer ?
 - Listar Motéis
